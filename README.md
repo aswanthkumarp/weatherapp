@@ -35,7 +35,7 @@ The Weather App using JavaScript is a web application that allows users to check
 <!-- Demo Section -->
 ## Demo
 
-Explore the live demo: [Weather App Demo](#https://aswanthkumarp.github.io/weatherapp/)
+Explore the live demo: [Weather App Demo]([https://aswanthkumarp.github.io/weatherapp])
 
 
 
